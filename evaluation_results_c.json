@@ -1,0 +1,5 @@
+{
+  "model_name": "Model C",
+  "bleu": 25.59,
+  "bertscore_f1": 0.9146
+}
