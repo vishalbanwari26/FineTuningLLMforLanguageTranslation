@@ -73,7 +73,6 @@ A web-based UI to test translations using the fine-tuned model:
 
 - `Portfolio_Task1_VB.ipynb`: Implementation steps and evaluation.
 - `Portfolio_Interface_Gradio_VB.ipynb`: Gradio UI for translation.
-- `FineTuneLLMForLT_VB.pdf`: Full project report and reflections.
 
 ## 📚 References
 
