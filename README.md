@@ -2,8 +2,12 @@
 
 This project focuses on fine-tuning a multilingual Large Language Model (LLM) for German-French language translation using efficient training techniques and evaluating it using standard metrics.
 
-## 📌 Project Overview
+## UI
 
+![Screenshot](screenshot_ui.png)
+
+
+## 📌 Project Overview
 This repository contains the implementation and interface for fine-tuning the `bigscience/bloomz-3b` model on various German-French datasets (real, synthetic, combined), evaluating performance using BLEU and BERTScore, and providing a Gradio-powered translation interface.
 
 ## 🧠 Objectives
